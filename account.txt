@@ -1,0 +1,2 @@
+ No. Acct       Nama Depan   Nama Belakang   Balance
+        1           Achmad            Faiz  99000.00
